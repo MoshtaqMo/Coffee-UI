@@ -1,0 +1,2 @@
+G:/User/projectsf/DEVELOPMENT/coffee/android/app/.cxx/Debug/5c366h62/armeabi-v7a/CMakeFiles/edit_cache.dir
+G:/User/projectsf/DEVELOPMENT/coffee/android/app/.cxx/Debug/5c366h62/armeabi-v7a/CMakeFiles/rebuild_cache.dir
